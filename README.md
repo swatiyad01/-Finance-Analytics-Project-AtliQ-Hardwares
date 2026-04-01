@@ -32,12 +32,6 @@ This project focuses on analyzing business performance using P&L reports across 
 
 ---
 
-## 📸 Project Screenshots
-
-(Add your dashboard images here)
-
----
-
 ## 💡 Conclusion
 
 Understanding both growth and profitability is essential for making better business decisions.
